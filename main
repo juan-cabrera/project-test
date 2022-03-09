@@ -1,0 +1,12 @@
+main_function()
+
+call function_1(A,B,C)
+
+instruction_1
+instruction_2
+instruction_3
+
+call function_2(E,F)
+bug_1
+call function_3(E,F)
+bug_1

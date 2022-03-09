@@ -1,0 +1,21 @@
+
+function_1(A,B,C)
+
+    instruction_1
+    bug_1
+    instruction_2
+    instruction_3
+
+function_2(E,F)
+
+    instruction_1
+    instruction_2
+    bug_1
+    instruction_3
+
+function_3(G,H)
+
+    bug_1
+    instruction_1
+    instruction_2
+    instruction_3
